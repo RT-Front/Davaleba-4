@@ -1,0 +1,176 @@
+.profile{
+    margin-left: 206px;
+    margin-top: 169px;
+}
+
+.profile_img{
+    display: inline-block;
+}
+
+.name{
+    display: inline-block;
+    position: absolute;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'poppins_medium';
+    margin-top: 63px;
+    margin-left: 68px;
+}
+
+.job{
+    display: inline-block;
+    position: absolute;
+    font-size: 22px;
+    font-family: 'poppins_italic';
+    color: #546CCC;
+    margin-top: 122px;
+    margin-left: 68px;
+}
+
+.info{
+    margin-top: 96.19px;
+    margin-left: 221px;
+    width: 576px;
+    height: 260px;
+}
+
+
+.p1{
+    font-size: 24px;
+    margin-left: 24px;
+    font-family: 'poppins_medium';
+}
+
+.line{
+    margin-top: 16px;
+    border: 1px solid #7D0000;
+    color: #7D0000;
+    width: 133px;
+}
+
+
+.p2{
+    display: inline-block;
+    margin-left: 16px;
+    margin-top: 58px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'poppins_bold';
+}
+
+.email{
+    display: inline-block;
+    margin-left: 163px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'poppins_medium';
+}
+.p3{
+    display: inline-block;
+    margin-left: 16px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'poppins_bold';
+}
+
+.adress{
+    display: inline-block;
+    margin-left: 147px;
+    margin-right: 199px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'poppins_medium';
+}
+.p4{
+    display: inline-block;
+    margin-left: 16px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'poppins_bold';
+}
+
+.gender{
+    display: inline-block;
+    margin-left: 144px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'poppins_medium';
+}
+
+
+.edit_button{
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    position: inherit;
+    margin-top: 25px;
+    margin-bottom: 146px;
+    margin-left: 956px;
+    border-radius: 10px;
+    border-color: white;
+    background-color: #87AC87;
+}
+
+
+.button_text{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'poppins_medium';
+}
+
+
+
+
+
+@font-face {
+    font-family: 'poppins_italic';
+    src: url(../fonts/OpenSans-Italic.ttf);
+}
+@font-face {
+    font-family: 'firago_book';
+    src: url(../fonts/FiraGO-Book.ttf);
+}
+@font-face {
+    font-family: 'firago_medium';
+    src: url(../fonts/FiraGO-Medium.ttf);
+}
+@font-face {
+    font-family: 'firago_regular';
+    src: url(../fonts/FiraGO-Regular.ttf);
+}
+@font-face {
+    font-family: 'andada_semibold';
+    src: url(../fonts/AndadaPro-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'andada_semibold_italic';
+    src: url(../fonts/AndadaPro-SemiBoldItalic.ttf);
+}
+@font-face {
+    font-family: 'andada_bold';
+    src: url(../fonts/AndadaPro-Bold.ttf);
+}
+@font-face {
+    font-family: 'andada_italic';
+    src: url(../fonts/AndadaPro-Italic.ttf);
+}
+@font-face {
+    font-family: 'poppins_medium';
+    src: url(../fonts/Poppins-medium.ttf);
+}
+@font-face {
+    font-family: 'poppins_regular';
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: 'poppins_bold';
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: 'open_sans_normal';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}

@@ -1,0 +1,90 @@
+.headline{
+    margin-left: 610px;
+    margin-top: 147px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #7D0000;
+    font-family: 'andada_bold';
+}
+
+.text{
+    width: 880px;
+    height: 98px;
+    margin-left: 280px;
+    margin-top: 119px;
+    margin-bottom: 144px;
+    font-size: 27px;
+    font-weight: 400px;
+}
+
+.p1{
+    margin-right: 618px;
+    margin-top: 0px;
+    position: absolute;
+    font-family: 'andada_semibold_italic';
+    text-decoration: underline;
+}
+
+.p2{
+    margin-left: 586px;
+    margin-top:0px;
+    position: absolute;
+    font-family: 'andada_semibold';
+}
+.p3{
+    margin-left: 0px;
+    margin-top: 66px;
+    position: absolute;
+    font-family: 'andada_semibold';
+}
+.p4{
+    margin-left: 586px;
+    margin-top: 66px;
+    position: absolute;
+    font-family: 'andada_semibold';
+}
+
+.map{
+    margin-left: 240px;
+    margin-bottom: 183px;
+    width: 908px;
+    height: 423px;
+}
+
+.MAP{
+    height: 100%;
+    width: 100%;
+}
+
+@font-face {
+    font-family: 'andada_semibold';
+    src: url(../fonts/AndadaPro-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'andada_semibold_italic';
+    src: url(../fonts/AndadaPro-SemiBoldItalic.ttf);
+}
+@font-face {
+    font-family: 'andada_bold';
+    src: url(../fonts/AndadaPro-Bold.ttf);
+}
+@font-face {
+    font-family: 'andada_italic';
+    src: url(../fonts/AndadaPro-Italic.ttf);
+}
+@font-face {
+    font-family: 'poppins_medium';
+    src: url(../fonts/Poppins-medium.ttf);
+}
+@font-face {
+    font-family: 'poppins_regular';
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: 'poppins_bold';
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: 'open_sans_normal';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}

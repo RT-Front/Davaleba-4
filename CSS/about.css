@@ -1,0 +1,71 @@
+.satauri{
+    margin-top: 134px;
+    margin-left: 524px;
+    color: #7D0000;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'andada_semibold';
+}
+
+.text{
+    margin-left: 126px;
+    margin-top: 115px;
+    margin-bottom: 318px;
+    width: 650px;
+    height: 323px;
+}
+
+.p1{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'andada_semibold';
+}
+
+.p2{
+    margin-top: 89px;
+    margin-left: 308px;
+    text-decoration: underline;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'andada_italic';
+}
+
+.image_div{
+    margin-left: 835px;
+    width: 500px;
+    height: 333.33px;
+    margin-top: -210px;
+}
+
+.image{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+@font-face {
+    font-family: 'andada_semibold';
+    src: url(../fonts/AndadaPro-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'andada_italic';
+    src: url(../fonts/AndadaPro-Italic.ttf);
+}
+@font-face {
+    font-family: 'poppins_medium';
+    src: url(../fonts/Poppins-medium.ttf);
+}
+@font-face {
+    font-family: 'poppins_regular';
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: 'poppins_bold';
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: 'open_sans_normal';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}

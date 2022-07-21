@@ -1,0 +1,224 @@
+.headline{
+    margin-left: 94px;
+    margin-top: 47px;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'firago_regular';
+    position: absolute;
+}
+
+.search_tab{
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin-top: 42px;
+    margin-left: 973px;
+    display: inline-block;
+    width: 369px;
+    height: 47px; 
+    display: flex;
+    align-items: center;
+}
+
+.search_icon{
+    position: absolute;
+    margin-left: 15.25px;
+}
+
+.search{
+    position: absolute;
+    margin-left: 60px;
+    color: #00000080;
+    font-family: 'firago_book';
+    font-size: 12px;
+}
+
+
+.category{
+    margin-top: 169px;
+    margin-left: 445px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'firago_medium';
+}
+
+.p1{
+    display: inline-block;
+}
+
+.p2{
+    display: inline-block;
+    margin-left: 65px;
+}
+
+.p3{
+    display: inline-block;
+    margin-left: 65px;
+}
+
+.p4{
+    display: inline-block;
+    margin-left: 65px;
+}
+
+.article1{
+    height: 228px;
+    margin-top: 68px;
+    margin-left: 94px;
+}
+.article2{
+    height: 228px;
+    margin-top: 63px;
+    margin-left: 94px;
+}
+
+.article1_img{
+    display: inline-block;
+    border-top-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+}
+.article2_img{
+    display: inline-block;
+    border-top-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+}
+
+.text1{
+    display: inline-block;
+    position: absolute;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    width: 918px;
+    height: 228px;
+    margin-left: 22px;
+    margin-top: 0px;
+    background-color: #E5EBE5;
+}
+.text2{
+    display: inline-block;
+    position: absolute;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    width: 918px;
+    height: 228px;
+    margin-left: 22px;
+    margin-top: 0px;
+    background-color: #E5EBE5;
+}
+
+.article1_headline{
+    margin-top: 38px;
+    margin-left: 36px;
+    margin-bottom: 32px;
+    margin-right: 32px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'firago_medium';
+}
+.article2_headline{
+    margin-top: 38px;
+    margin-left: 36px;
+    margin-bottom: 32px;
+    margin-right: 32px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'firago_medium';
+}
+
+
+.article1_text{
+    margin-left: 36px;
+    width: 850px;
+    margin-bottom: 38px;
+    margin-right: 32px;
+    font-size: 14px;
+    font-weight: 350;
+    font-family: 'firago_book';
+}
+.article2_text{
+    margin-left: 36px;
+    width: 850px;
+    margin-bottom: 38px;
+    margin-right: 32px;
+    font-size: 14px;
+    font-weight: 350;
+    font-family: 'firago_book';
+}
+
+
+.button_1{
+    margin-left: 1168px;
+    margin-top: 14px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: underline;
+    font-family: 'firago_regular';
+    padding-left: 27.5px;
+    padding-right: 27.5px;
+    padding-top: 12.22px;
+    padding-bottom: 12.22px;
+}
+.button_2{
+    margin-left: 1168px;
+    margin-top: 14px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: underline;
+    font-family: 'firago_regular';
+    padding-left: 27.5px;
+    padding-right: 27.5px;
+    padding-top: 12.22px;
+    padding-bottom: 12.22px;
+    margin-bottom: 51px;
+}
+
+
+
+
+
+@font-face {
+    font-family: 'firago_book';
+    src: url(../fonts/FiraGO-Book.ttf);
+}
+@font-face {
+    font-family: 'firago_medium';
+    src: url(../fonts/FiraGO-Medium.ttf);
+}
+@font-face {
+    font-family: 'firago_regular';
+    src: url(../fonts/FiraGO-Regular.ttf);
+}
+@font-face {
+    font-family: 'andada_semibold';
+    src: url(../fonts/AndadaPro-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'andada_semibold_italic';
+    src: url(../fonts/AndadaPro-SemiBoldItalic.ttf);
+}
+@font-face {
+    font-family: 'andada_bold';
+    src: url(../fonts/AndadaPro-Bold.ttf);
+}
+@font-face {
+    font-family: 'andada_italic';
+    src: url(../fonts/AndadaPro-Italic.ttf);
+}
+@font-face {
+    font-family: 'poppins_medium';
+    src: url(../fonts/Poppins-medium.ttf);
+}
+@font-face {
+    font-family: 'poppins_regular';
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: 'poppins_bold';
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: 'open_sans_normal';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
