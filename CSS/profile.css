@@ -11,8 +11,7 @@
     display: inline-block;
     position: absolute;
     font-size: 30px;
-    font-weight: 500;
-    font-family: 'poppins_medium';
+    font-family: 'poppins_regular';
     margin-top: 63px;
     margin-left: 68px;
 }
@@ -38,7 +37,7 @@
 .p1{
     font-size: 24px;
     margin-left: 24px;
-    font-family: 'poppins_medium';
+    font-family: 'poppins_regular';
 }
 
 .line{
@@ -63,7 +62,7 @@
     margin-left: 163px;
     font-size: 20px;
     font-weight: 500;
-    font-family: 'poppins_medium';
+    font-family: 'poppins_regular';
 }
 .p3{
     display: inline-block;
@@ -80,7 +79,7 @@
     margin-right: 199px;
     font-size: 20px;
     font-weight: 500;
-    font-family: 'poppins_medium';
+    font-family: 'poppins_regular';
 }
 .p4{
     display: inline-block;
@@ -96,7 +95,7 @@
     margin-left: 144px;
     font-size: 20px;
     font-weight: 500;
-    font-family: 'poppins_medium';
+    font-family: 'poppins_regular';
 }
 
 
@@ -119,7 +118,7 @@
     color: #FFFFFF;
     font-size: 25px;
     font-weight: 500;
-    font-family: 'poppins_medium';
+    font-family: 'poppins_regular';
 }
 
 
